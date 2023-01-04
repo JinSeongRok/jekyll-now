@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jin SeongRok
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -16,12 +16,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+footer-links: 
   dribbble:
-  email:
+  email: jk3858@naver.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: JinSeongRok/jekyll-now
   instagram:
   linkedin:
   pinterest:
